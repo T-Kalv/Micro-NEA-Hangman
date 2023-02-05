@@ -109,7 +109,7 @@ namespace Hangman
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To Kalvin's Hangman Game!");
+            Console.WriteLine("Welcome To T.Kalv's Hangman Game!");
             Thread.Sleep(1000);
             Console.WriteLine("                                   _______");
             Console.WriteLine("                                   |     |");
